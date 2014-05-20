@@ -2,5 +2,5 @@ name: QA-101
 menuTitle: Dev-Intern-101
 markdown: redcarpet
 pygments: true
-permalink: /qa_101_jekyll/
+permalink: /
 version: 0.5 Beta

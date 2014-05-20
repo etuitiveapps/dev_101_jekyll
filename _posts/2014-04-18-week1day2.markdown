@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2014-04-18 14:52:18
+categories: weekone
+---
+
+### At the end of the second day you should have a virtual machine installed. You should also have a good idea how to run unix commands in the terminal.
+
+1. [VirtualBox and Windows 7 x64 Install](https://www.youtube.com/watch?v=LGUfa2HIx0E)
++ [Install Ubuntu 13.04 on Virtualbox](https://www.youtube.com/watch?v=0WiiswmOH1Q)
++ [Learning Ubuntu Linux By: Ric Messier](http://techbus.safaribooksonline.com/video/operating-systems/9781771371964)
+
+If you need additional reading material, you can check out the following manual.
+
+[Instant Ubuntu By: Christer Edwards](http://techbus.safaribooksonline.com/book/operating-systems-and-server-administration/linux/9781783280872)
