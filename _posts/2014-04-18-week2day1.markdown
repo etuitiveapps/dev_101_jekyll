@@ -5,6 +5,4 @@ date:   2014-04-18 14:52:14
 categories: weektwo
 ---
 
-### At the end of Week 2 day 1, you should have a gentle introduction to Ruby
-
 # Week 2 day 1 text
