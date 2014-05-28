@@ -5,4 +5,23 @@ date:   2014-04-18 14:52:16
 categories: weekone
 ---
 
-# Week 1 day 4 text
+### At the end of the three day, you should have a clear understanding of the Terminal and Markdown
+
++ [Unix Fundamentals 101](http://techbus.safaribooksonline.com/video/operating-systems-and-server-administration/unix/9781449372514)
++ [Creating Content with Markdown: Learn by Video](http://techbus.safaribooksonline.com/video/web-design-and-development/9780133837629)
+
+
+## Good Markdown links
+
+1. [Markdown online editor](https://stackedit.io)
++ [Daring Fireball](http://daringfireball.net/projects/markdown/syntax)
++ [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
++ [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
++ [Markdown Cheatsheet pdf](http://blog.lib.umn.edu/crosb002/leadership/Markdown_Cheat_Sheet.pdf)
+
+
+
+## If you need additional reading material, you can check out the following manual.
+
++ [Learning Unix for OS X By: Dave Taylor](http://techbus.safaribooksonline.com/book/operating-systems/9781449332303)
++ [Instant Markdown By: Arturo Herrero ](http://techbus.safaribooksonline.com/book/web-design-and-development/9781783559145)
